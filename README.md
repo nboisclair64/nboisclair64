@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   - **Discord:** *nick_b#7552*
 - ⚡ Fun fact: I make things
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nboisclair64&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/nboisclair64/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nboisclair64&layout=compact&theme=merko)](https://github.com/nboisclair64/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nboisclair64)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nboisclair64&layout=compact&theme=merko)](https://github.com/nboisclair64/github-readme-stats)
