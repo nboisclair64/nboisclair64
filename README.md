@@ -1,10 +1,9 @@
 <h1 align="center">Hi there, I'm Nick! 👋</h1>
 
----
 
 ### 👤 About Me
 
-- 🌱 **Currently learning:** Always something new!
+- 🌱 **Currently learning:** Django
 - ⚡ **Fun fact:** I make things.
 - 📫 **How to reach me:**
   - 📧 **Email:** [boiscla@uwindsor.ca](mailto:boiscla@uwindsor.ca)
