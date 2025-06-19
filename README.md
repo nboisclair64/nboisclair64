@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Nick! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;Developer+%7C+Maker+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👤 About Me
