@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I make things
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nboisclair64&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nboisclair64&layout=compact&theme=merko)](https://github.com/nboisclair64/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nboisclair64&theme=merko)](https://github.com/nboisclair64/github-readme-stats)
